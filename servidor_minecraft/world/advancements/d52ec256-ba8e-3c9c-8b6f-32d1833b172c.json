@@ -9,6 +9,8 @@
     "criteria": {
       "minecraft:flower_forest": "2024-12-22 04:46:18 +0000",
       "minecraft:savanna_plateau": "2024-12-21 03:53:59 +0000",
+      "minecraft:forest": "2024-12-24 02:33:26 +0000",
+      "minecraft:sparse_jungle": "2024-12-24 02:34:07 +0000",
       "minecraft:cherry_grove": "2024-12-21 03:53:39 +0000",
       "minecraft:sunflower_plains": "2024-12-24 01:56:33 +0000",
       "minecraft:river": "2024-12-22 04:46:00 +0000",
@@ -392,6 +394,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-24 02:27:10 +0000",
       "cooked_beef": "2024-12-21 04:01:04 +0000",
       "carrot": "2024-12-23 02:34:02 +0000"
     },
@@ -1418,6 +1421,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-24 02:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-24 02:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:spotted": "2024-12-24 02:29:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/wolf_armor": {
     "criteria": {
       "has_armadillo_scute": "2024-12-24 02:07:30 +0000"
@@ -1442,6 +1463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-24 02:41:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2024-12-24 02:14:52 +0000"
@@ -1451,6 +1478,18 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-24 02:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-24 02:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-24 02:41:18 +0000"
     },
     "done": true
   },
@@ -1466,15 +1505,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-24 02:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-24 02:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-24 02:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-24 02:40:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-24 02:13:40 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-24 02:40:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-24 02:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-24 02:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-24 02:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-24 02:41:18 +0000"
     },
     "done": true
   },

@@ -1551,6 +1551,7 @@
   },
   "minecraft:husbandry/whole_pack": {
     "criteria": {
+      "minecraft:spotted": "2024-12-24 02:29:07 +0000",
       "minecraft:rusty": "2024-12-22 05:37:53 +0000",
       "minecraft:woods": "2024-12-24 00:36:20 +0000"
     },
