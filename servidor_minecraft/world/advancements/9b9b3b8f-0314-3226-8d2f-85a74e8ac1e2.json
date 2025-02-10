@@ -7,14 +7,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-02-10 17:03:53 +0000",
       "minecraft:savanna_plateau": "2024-12-21 03:52:45 +0000",
       "minecraft:forest": "2024-12-23 01:46:50 +0000",
       "minecraft:sparse_jungle": "2024-12-23 01:48:58 +0000",
-      "minecraft:cherry_grove": "2024-12-21 03:52:33 +0000",
-      "minecraft:sunflower_plains": "2024-12-22 04:49:46 +0000",
       "minecraft:river": "2024-12-22 04:49:52 +0000",
       "minecraft:dripstone_caves": "2024-12-21 03:58:23 +0000",
+      "minecraft:eroded_badlands": "2025-02-10 17:04:28 +0000",
+      "minecraft:desert": "2025-02-10 17:01:45 +0000",
+      "minecraft:cherry_grove": "2024-12-21 03:52:33 +0000",
+      "minecraft:sunflower_plains": "2024-12-22 04:49:46 +0000",
       "minecraft:savanna": "2024-12-21 03:54:36 +0000",
+      "minecraft:wooded_badlands": "2025-02-10 17:02:10 +0000",
       "minecraft:plains": "2024-12-21 03:54:06 +0000"
     },
     "done": false
@@ -2385,15 +2389,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/cake": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_egg": "2025-02-10 16:49:02 +0000"
+      "diamond_leggings": "2025-02-10 16:43:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_tuff_bricks": "2025-02-10 16:58:58 +0000"
+      "has_egg": "2025-02-10 16:49:02 +0000"
     },
     "done": true
   },
@@ -2403,33 +2407,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
-    "criteria": {
-      "has_tuff_bricks": "2025-02-10 16:58:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-02-10 16:51:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
-    "criteria": {
-      "has_tuff_bricks": "2025-02-10 16:58:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-10 16:51:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
-    "criteria": {
-      "has_tuff_bricks": "2025-02-10 16:58:58 +0000"
     },
     "done": true
   },
@@ -2442,18 +2428,6 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-10 16:51:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2025-02-10 16:43:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
-    "criteria": {
-      "has_tuff_bricks": "2025-02-10 16:58:58 +0000"
     },
     "done": true
   },
@@ -2481,15 +2455,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/tuff_brick_wall": {
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-10 16:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-02-10 16:58:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
     "criteria": {
-      "has_andesite": "2025-02-10 16:51:51 +0000"
+      "has_tuff_bricks": "2025-02-10 16:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2025-02-10 16:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-02-10 16:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-02-10 16:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2025-02-10 16:58:58 +0000"
     },
     "done": true
   },
