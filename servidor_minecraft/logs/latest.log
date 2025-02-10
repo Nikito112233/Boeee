@@ -1,61 +1,22 @@
-[16:30:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:30:05] [ServerMain/INFO]: Loaded 1290 recipes
-[16:30:05] [ServerMain/INFO]: Loaded 1399 advancements
-[16:30:06] [Server thread/INFO]: Starting minecraft server version 1.21
-[16:30:06] [Server thread/INFO]: Loading properties
-[16:30:06] [Server thread/INFO]: Default game type: SURVIVAL
-[16:30:06] [Server thread/INFO]: Generating keypair
-[16:30:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:30:07] [Server thread/INFO]: Using epoll channel type
-[16:30:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:30:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:30:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:30:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:30:07] [Server thread/INFO]: Preparing level "world"
-[16:30:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:30:21] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[16:30:21] [Server thread/INFO]: Time elapsed: 1582 ms
-[16:30:21] [Server thread/INFO]: Done (14.374s)! For help, type "help"
-[16:30:32] [Server thread/INFO]: NicolasRamosR[/127.237.143.76:59341] logged in with entity id 24 at (336.2900812929759, 80.68882032402063, -225.94882134919453)
-[16:30:32] [Server thread/INFO]: NicolasRamosR joined the game
-[16:30:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[16:31:43] [Server thread/INFO]: Matielculon2[/127.66.88.13:47765] logged in with entity id 410 at (50.31825111623987, 76.0, -810.965362470876)
-[16:31:43] [Server thread/INFO]: Matielculon2 joined the game
-[16:32:03] [Server thread/INFO]: [NicolasRamosR: Teleported NicolasRamosR to Matielculon2]
-[16:32:23] [Server thread/INFO]: [NicolasRamosR: Set own game mode to Survival Mode]
-[16:33:59] [Server thread/INFO]: [Not Secure] <Matielculon2> se me escucha?
-[16:41:32] [Server thread/INFO]: santypete[/127.229.50.208:35001] logged in with entity id 2234 at (12.542708642436825, 21.306069889477055, -104.18717502123236)
-[16:41:32] [Server thread/INFO]: santypete joined the game
-[16:41:33] [Server thread/INFO]: [NicolasRamosR: Teleported santypete to NicolasRamosR]
-[16:43:42] [Server thread/INFO]: NicolasRamosR has made the advancement [Cover Me with Diamonds]
-[16:45:36] [Server thread/INFO]: [Not Secure] <NicolasRamosR> eu
-[16:45:41] [Server thread/INFO]: [Not Secure] <NicolasRamosR> me escuchan?
-[16:45:47] [Server thread/INFO]: [Not Secure] <Matielculon2> No
-[16:45:56] [Server thread/INFO]: [Not Secure] <Matielculon2> Si
-[16:51:07] [Server thread/INFO]: [Not Secure] <Matielculon2> Dormite nico
-[16:54:07] [Server thread/INFO]: Matielculon2 has made the advancement [Enchanter]
-[16:59:52] [Server thread/INFO]: NicolasRamosR lost connection: Disconnected
-[16:59:52] [Server thread/INFO]: NicolasRamosR left the game
-[17:00:32] [Server thread/INFO]: Made santypete a server operator
-[17:01:12] [Server thread/INFO]: [Not Secure] <Matielculon2> santypete
-[17:01:44] [Server thread/INFO]: NicolasRamosR[/127.237.143.76:40029] logged in with entity id 7419 at (176.69999998807907, -19.0, -956.3000000119209)
-[17:01:44] [Server thread/INFO]: NicolasRamosR joined the game
-[17:01:45] [Server thread/INFO]: [santypete: Teleported NicolasRamosR to santypete]
-[17:06:28] [Server thread/INFO]: NicolasRamosR fell from a high place
-[17:06:43] [Server thread/INFO]: [santypete: Teleported NicolasRamosR to santypete]
-[17:09:02] [Server thread/INFO]: [NicolasRamosR: Teleported NicolasRamosR to santypete]
-[17:10:36] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Me escuchan?
-[17:10:41] [Server thread/INFO]: [Not Secure] <Matielculon2> trabado
-[17:18:38] [Server thread/INFO]: Villager cmk['Villager'/13096, l='ServerLevel[world]', x=1215.78, y=49.77, z=-1943.72] died, message: 'Villager was slain by Zombie'
-[17:19:57] [Server thread/INFO]: Villager cmk['Villager'/13095, l='ServerLevel[world]', x=1186.72, y=51.00, z=-1975.04] died, message: 'Villager was slain by Zombie'
-[17:31:27] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Yo tambien
-[17:31:38] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Tengo que ir a sacar plata del banco
-[17:32:20] [Server thread/INFO]: Matielculon2 lost connection: Disconnected
-[17:32:20] [Server thread/INFO]: Matielculon2 left the game
-[17:32:40] [Server thread/INFO]: [NicolasRamosR: Teleported NicolasRamosR to santypete]
-[17:40:04] [Server thread/INFO]: santypete lost connection: Disconnected
-[17:40:04] [Server thread/INFO]: santypete left the game
-[17:40:34] [Server thread/INFO]: NicolasRamosR lost connection: Disconnected
-[17:40:34] [Server thread/INFO]: NicolasRamosR left the game
+[22:47:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:47:02] [ServerMain/INFO]: Loaded 1290 recipes
+[22:47:03] [ServerMain/INFO]: Loaded 1399 advancements
+[22:47:03] [Server thread/INFO]: Starting minecraft server version 1.21
+[22:47:03] [Server thread/INFO]: Loading properties
+[22:47:03] [Server thread/INFO]: Default game type: SURVIVAL
+[22:47:03] [Server thread/INFO]: Generating keypair
+[22:47:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:47:04] [Server thread/INFO]: Using epoll channel type
+[22:47:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:47:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:47:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:47:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:47:04] [Server thread/INFO]: Preparing level "world"
+[22:47:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:47:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:47:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:47:10] [Server thread/INFO]: Time elapsed: 787 ms
+[22:47:10] [Server thread/INFO]: Done (6.213s)! For help, type "help"
+[22:47:36] [Server thread/INFO]: santypete[/127.229.50.208:39121] logged in with entity id 24 at (166.81073536839955, 65.02442408821369, -1510.3864322455856)
+[22:47:36] [Server thread/INFO]: santypete joined the game
+[22:56:22] [Server thread/INFO]: santypete fell from a high place
