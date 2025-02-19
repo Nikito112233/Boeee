@@ -190,3 +190,7 @@
 [20:09:01] [Server thread/INFO]: MONTO--678 has made the advancement [Acquire Hardware]
 [20:09:52] [Server thread/INFO]: MONTO--678 has made the advancement [Suit Up]
 [20:15:43] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Me escuchas?
+[20:19:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=140, y=64, z=-648} jd{x=142, y=61, z=-647}
+[20:19:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=140, y=64, z=-648} jd{x=142, y=61, z=-647}
+[20:25:05] [Server thread/INFO]: [NicolasRamosR: Set own game mode to Spectator Mode]
+[20:25:16] [Server thread/WARN]: NicolasRamosR moved too quickly! 8.606873480919774,2.078246482582088,5.172049691311827
