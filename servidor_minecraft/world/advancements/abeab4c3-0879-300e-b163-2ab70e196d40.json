@@ -1136,6 +1136,7 @@
       "minecraft:pillager": "2024-12-23 03:12:51 +0000",
       "minecraft:blaze": "2024-12-23 22:28:08 +0000",
       "minecraft:skeleton": "2024-12-21 23:58:08 +0000",
+      "minecraft:phantom": "2025-02-23 04:08:48 +0000",
       "minecraft:wither_skeleton": "2024-12-23 22:29:28 +0000",
       "minecraft:husk": "2024-12-22 06:11:01 +0000",
       "minecraft:hoglin": "2024-12-23 04:03:13 +0000",
@@ -2865,6 +2866,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-23 01:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-02-23 04:01:43 +0000"
     },
     "done": true
   },
